@@ -1,18 +1,30 @@
-// const express = require('express')
-// const hbs = require('express-handlebars')
-// const router = express.Router()
+const express = require('express')
+const hbs = require('express-handlebars')
+const router = express.Router()
+const fs = require('fs')
 
-// const studentData = JSON.parse(fs.readFileSync("studentData.json"));
+const staffData = JSON.parse(fs.readFileSync("staffData.json"));
 
-// router.get('/', (req,res) => {
-//     const studentProfiles = 'partials/studentIndex' //this is a link to a hbs partial called studentIndex
-//     const studentInfo = {
-//         students: studentData
-//     }                                               //JSON data taken from studentData.json
+router.get('/', (req,res) => {
+    const staffProfiles = 'partials/index' //this is a link to a hbs partial called index
 
-//     res.render(studentProfiles, studentInfo) //render the studentProfiles hbs content, and fill in the template with data from students
-// })
+    const staffInfo = {
+        staff: staffData
+    }                                               //JSON data taken from studentData.json, contains all student info
 
-// module.exports = {
-//     router: router
-// }
+    res.render(staffProfiles, staffInfo) //render the studentProfiles hbs content, and fill in the template with data from students
+})
+
+router.get('/:name', (req, res) => {
+    const {name} = req.params
+    const profile = 'partials/profile' // this is a link to a hbs partial called profile
+    const staffInfo = {
+        //access specific student info from the studentData.json file
+    }
+    res.render(profile, staffInfo)
+})
+
+
+module.exports = {
+    router: router
+}

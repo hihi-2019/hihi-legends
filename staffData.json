@@ -7,7 +7,11 @@
     { 
         "name": "Kelly",
         "image": ".jpg",
-        "comments": "great work today"
+        "comments": ["great work today",
+                    "you are great",
+                    "nice hair"
+        ]
+        
     }, 
     { 
         "name": "Han",

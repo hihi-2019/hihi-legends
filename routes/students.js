@@ -6,7 +6,7 @@ const fs = require('fs')
 const studentData = JSON.parse(fs.readFileSync("studentData.json"));
 
 router.get('/', (req,res) => {
-    const studentProfiles = 'partials/studentIndex' //this is a link to a hbs partial called studentIndex
+    const studentProfiles = 'partials/index' //this is a link to a hbs partial called index
     const studentsInfo = {
         students: studentData
     }                                               //JSON data taken from studentData.json, contains all student info
