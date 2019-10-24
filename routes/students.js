@@ -6,11 +6,13 @@ const studentData = JSON.parse(fs.readFileSync("studentData.json"));
 
 router.get('/', (req, res) => {
     const studentProfiles = 'partials/index' //this is a link to a hbs partial called index
+    
     const studentsInfo = {
-        arrayOfStudents: studentData.students
+        groupType: Object.keys(studentData),
+        arrayOfGroup: studentData.students
     }                                     //JSON data taken from studentData.json, contains all student info
-    console.log(studentsInfo.arrayOfStudents)
-
+    console.log(studentsInfo.arrayOfGroup)
+    console.log(studentsInfo.groupType)
     res.render(studentProfiles, studentsInfo) 
     //render the studentProfiles hbs content, and fill in the template with data from students
 })
