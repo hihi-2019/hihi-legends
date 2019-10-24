@@ -2,77 +2,182 @@
     {
         "name": "Alice",
         "image": ".jpg",
-        "comments": "you are awesome"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Joseph",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     }, 
     { 
         "name": "Bas",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Charlie",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Cherise",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Vere",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Sophie",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Richard",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Cass",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Fraser",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Freya",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Caitlin",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Ethan",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Tosca",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Robert",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     }
 ]
   }

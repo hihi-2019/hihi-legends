@@ -2,51 +2,111 @@
     {
         "name": "Ross",
         "image": ".jpg",
-        "comments": "you are awesome"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Kelly",
         "image": ".jpg",
-        "comments": ["great work today",
-                    "you are great",
-                    "nice hair"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
         ]
         
     }, 
     { 
         "name": "Han",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Gina",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Ming",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Jack",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Rohan",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Oliver",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     },
     { 
         "name": "Annie",
         "image": ".jpg",
-        "comments": "great work today"
+        "bio": "",
+        "comments": [
+            {
+                "commenter": "",
+                "comment": "",
+                "date": ""
+            }
+        ]
     }
     
 ]
