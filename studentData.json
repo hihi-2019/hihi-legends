@@ -1,0 +1,78 @@
+{ "students": [
+    {
+        "name": "Alice",
+        "image": ".jpg",
+        "comments": "you are awesome"
+    },
+    { 
+        "name": "Joseph",
+        "image": ".jpg",
+        "comments": "great work today"
+    }, 
+    { 
+        "name": "Bas",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Charlie",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Cherise",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Vere",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Sophie",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Richard",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Cass",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Fraser",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Freya",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Caitlin",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Ethan",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Tosca",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Robert",
+        "image": ".jpg",
+        "comments": "great work today"
+    }
+]
+  }

@@ -1,0 +1,49 @@
+{ "staff": [
+    {
+        "name": "Ross",
+        "image": ".jpg",
+        "comments": "you are awesome"
+    },
+    { 
+        "name": "Kelly",
+        "image": ".jpg",
+        "comments": "great work today"
+    }, 
+    { 
+        "name": "Han",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Gina",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Ming",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Jack",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Rohan",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Oliver",
+        "image": ".jpg",
+        "comments": "great work today"
+    },
+    { 
+        "name": "Annie",
+        "image": ".jpg",
+        "comments": "great work today"
+    }
+    
+]
+  }
