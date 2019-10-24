@@ -1,0 +1,14 @@
+<div class="container"> 
+
+<p>{{name}}</p>
+<p>{{bio}}</p>
+<img src="{{image}}">
+
+{{#each comments }}
+<div> 
+<h3> Comment:{{comments.comment}} </h3>
+<h4> From: {{comments.commenter}} Date: {{comments.date}}</h4>
+
+</div>
+{{/each}}
+</div>
