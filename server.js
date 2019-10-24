@@ -1,7 +1,7 @@
 const express = require('express')
 const hbs = require('express-handlebars')
 const students = require('./routes/students')
-const staff = require('./routes/staff')
+// const staff = require('./routes/staff')
 
 const server = express()
 
@@ -15,10 +15,10 @@ server.engine('hbs', hbs({
 server.set('view engine', 'hbs')
 server.use(express.static('public'))
 server.use(express.urlencoded({extended: false}))
+server.use('/students', students)
 
 server.get('/', (req, res) => {
-    //need hbs template for landing page which has links to students and staff
-    res.render(home)
+    res.send('<h1>homepage</h1>')
   })
 
 server.get('/students', (req, res) => {
