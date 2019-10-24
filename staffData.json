@@ -1,7 +1,7 @@
 { "staff": [
     {
         "name": "Ross",
-        "image": ".jpg",
+        "image": "images/ross.png",
         "bio": "",
         "comments": [
             {
@@ -13,7 +13,7 @@
     },
     { 
         "name": "Kelly",
-        "image": ".jpg",
+        "image": "images/kelly.png",
         "bio": "",
         "comments": [
             {
@@ -26,7 +26,7 @@
     }, 
     { 
         "name": "Han",
-        "image": ".jpg",
+        "image": "images/han.png",
         "bio": "",
         "comments": [
             {
@@ -38,7 +38,7 @@
     },
     { 
         "name": "Gina",
-        "image": ".jpg",
+        "image": "images/gina.png",
         "bio": "",
         "comments": [
             {
@@ -50,7 +50,7 @@
     },
     { 
         "name": "Ming",
-        "image": ".jpg",
+        "image": "images/ming.png",
         "bio": "",
         "comments": [
             {
@@ -62,7 +62,7 @@
     },
     { 
         "name": "Jack",
-        "image": ".jpg",
+        "image": "images/jack.png",
         "bio": "",
         "comments": [
             {
@@ -74,7 +74,7 @@
     },
     { 
         "name": "Rohan",
-        "image": ".jpg",
+        "image": "images/rohan.png",
         "bio": "",
         "comments": [
             {
@@ -86,7 +86,7 @@
     },
     { 
         "name": "Oliver",
-        "image": ".jpg",
+        "image": "images/oliver.png",
         "bio": "",
         "comments": [
             {
@@ -98,7 +98,7 @@
     },
     { 
         "name": "Annie",
-        "image": ".jpg",
+        "image": "images/annie.png",
         "bio": "",
         "comments": [
             {

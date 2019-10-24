@@ -1,7 +1,7 @@
 { "students": [
     {
         "name": "Alice",
-        "image": ".jpg",
+        "image": "images/alice.png",
         "bio": "",
         "comments": [
             {
@@ -13,7 +13,7 @@
     },
     { 
         "name": "Joseph",
-        "image": ".jpg",
+        "image": "images/joseph.png",
         "bio": "",
         "comments": [
             {
@@ -25,7 +25,7 @@
     }, 
     { 
         "name": "Bas",
-        "image": ".jpg",
+        "image": "images/bas.png",
         "bio": "",
         "comments": [
             {
@@ -37,7 +37,7 @@
     },
     { 
         "name": "Charlie",
-        "image": ".jpg",
+        "image": "images/charlie.png",
         "bio": "",
         "comments": [
             {
@@ -49,7 +49,7 @@
     },
     { 
         "name": "Cherise",
-        "image": ".jpg",
+        "image": "images/cherise.png",
         "bio": "",
         "comments": [
             {
@@ -61,7 +61,7 @@
     },
     { 
         "name": "Vere",
-        "image": ".jpg",
+        "image": "images/vere.png",
         "bio": "",
         "comments": [
             {
@@ -73,7 +73,7 @@
     },
     { 
         "name": "Sophie",
-        "image": ".jpg",
+        "image": "images/sophie.png",
         "bio": "",
         "comments": [
             {
@@ -85,7 +85,7 @@
     },
     { 
         "name": "Richard",
-        "image": ".jpg",
+        "image": "images/richard.png",
         "bio": "",
         "comments": [
             {
@@ -97,7 +97,7 @@
     },
     { 
         "name": "Cass",
-        "image": ".jpg",
+        "image": "images/cass.png",
         "bio": "",
         "comments": [
             {
@@ -109,7 +109,7 @@
     },
     { 
         "name": "Fraser",
-        "image": ".jpg",
+        "image": "images/fraser.png",
         "bio": "",
         "comments": [
             {
@@ -121,7 +121,7 @@
     },
     { 
         "name": "Freya",
-        "image": ".jpg",
+        "image": "images/freya.png",
         "bio": "",
         "comments": [
             {
@@ -133,7 +133,7 @@
     },
     { 
         "name": "Caitlin",
-        "image": ".jpg",
+        "image": "images/caitlin.png",
         "bio": "",
         "comments": [
             {
@@ -145,7 +145,7 @@
     },
     { 
         "name": "Ethan",
-        "image": ".jpg",
+        "image": "images/ethan.png",
         "bio": "",
         "comments": [
             {
@@ -157,7 +157,7 @@
     },
     { 
         "name": "Tosca",
-        "image": ".jpg",
+        "image": "images/tosca.png",
         "bio": "",
         "comments": [
             {
@@ -169,7 +169,7 @@
     },
     { 
         "name": "Robert",
-        "image": ".jpg",
+        "image": "images/robert.png",
         "bio": "",
         "comments": [
             {
