@@ -1,7 +1,7 @@
 const express = require('express')
 const hbs = require('express-handlebars')
 const students = require('./routes/students')
-// const staff = require('./routes/staff')
+const staff = require('./routes/staff')
 
 const server = express()
 
@@ -16,6 +16,8 @@ server.set('view engine', 'hbs')
 server.use(express.static('public'))
 server.use(express.urlencoded({extended: false}))
 server.use('/students', students)
+server.use('/staff', staff)
+
 
 server.get('/', (req, res) => {
     res.send('<h1>homepage</h1>')
@@ -25,9 +27,9 @@ server.get('/students', (req, res) => {
     res.send(students)
 })
 
-// server.get('/staff', (req, res) => {
-//     res.send(staff)
-// })
+server.get('/staff', (req, res) => {
+    res.send(staff)
+})
 
 
 
