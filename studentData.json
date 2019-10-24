@@ -1,7 +1,7 @@
 { "students": [
     {
         "name": "Alice",
-        "image": "images/alice.png",
+        "image": "/images/alice.png",
         "bio": "",
         "comments": [
             {
@@ -13,7 +13,7 @@
     },
     { 
         "name": "Joseph",
-        "image": "images/joseph.png",
+        "image": "/images/joseph.png",
         "bio": "",
         "comments": [
             {
@@ -25,7 +25,7 @@
     }, 
     { 
         "name": "Bas",
-        "image": "images/bas.png",
+        "image": "/images/bas.png",
         "bio": "",
         "comments": [
             {
@@ -37,7 +37,7 @@
     },
     { 
         "name": "Charlie",
-        "image": "images/charlie.png",
+        "image": "/images/charlie.png",
         "bio": "",
         "comments": [
             {
@@ -49,7 +49,7 @@
     },
     { 
         "name": "Cherise",
-        "image": "images/cherise.png",
+        "image": "/images/cherise.png",
         "bio": "",
         "comments": [
             {
@@ -61,7 +61,7 @@
     },
     { 
         "name": "Vere",
-        "image": "images/vere.png",
+        "image": "/images/vere.png",
         "bio": "",
         "comments": [
             {
@@ -73,7 +73,7 @@
     },
     { 
         "name": "Sophie",
-        "image": "images/sophie.png",
+        "image": "/images/sophie.png",
         "bio": "",
         "comments": [
             {
@@ -85,7 +85,7 @@
     },
     { 
         "name": "Richard",
-        "image": "images/richard.png",
+        "image": "/images/richard.png",
         "bio": "",
         "comments": [
             {
@@ -97,7 +97,7 @@
     },
     { 
         "name": "Cass",
-        "image": "images/cass.png",
+        "image": "/images/cass.png",
         "bio": "",
         "comments": [
             {
@@ -109,7 +109,7 @@
     },
     { 
         "name": "Fraser",
-        "image": "images/fraser.png",
+        "image": "/images/fraser.png",
         "bio": "",
         "comments": [
             {
@@ -121,7 +121,7 @@
     },
     { 
         "name": "Freya",
-        "image": "images/freya.png",
+        "image": "/images/freya.png",
         "bio": "",
         "comments": [
             {
@@ -133,7 +133,7 @@
     },
     { 
         "name": "Caitlin",
-        "image": "images/caitlin.png",
+        "image": "/images/caitlin.png",
         "bio": "",
         "comments": [
             {
@@ -145,7 +145,7 @@
     },
     { 
         "name": "Ethan",
-        "image": "images/ethan.png",
+        "image": "/images/ethan.png",
         "bio": "",
         "comments": [
             {
@@ -157,7 +157,7 @@
     },
     { 
         "name": "Tosca",
-        "image": "images/tosca.png",
+        "image": "/images/tosca.png",
         "bio": "",
         "comments": [
             {
@@ -169,7 +169,7 @@
     },
     { 
         "name": "Robert",
-        "image": "images/robert.png",
+        "image": "/images/robert.png",
         "bio": "",
         "comments": [
             {
