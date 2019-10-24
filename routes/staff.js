@@ -15,11 +15,35 @@ router.get('/', (req, res) => {
 router.get('/:name', (req, res) => {
    
     const {name} = req.params
-    const staffInfo = staffData.staffs.find(function(element) {
+    const staffInfo = staffData.staff.find(function(element) {
             return element.name == name
         })   
     res.render('profile', staffInfo)
 })
 
+
+
+
+
+
+
+
+router.post('/:name', (req, res) => {
+    const {name} = req.params
+    const newCommentData = {
+        commenter: req.body.commenter,
+        comment: req.body.comment,
+        date: req.body.date
+    }
+    
+    staffData.staff.push(newCommentData)
+
+    let edited_staffData = JSON.stringify(staffData,null,2);
+
+    fs.writeFileSync('staffData.json', edited_staffData);
+    
+    res.redirect('/staff/' + name)
+
+})
 
 module.exports = router

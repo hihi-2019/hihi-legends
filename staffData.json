@@ -1,6 +1,6 @@
 { "staff": [
     {
-        "name": "Ross",
+        "name": "ross",
         "image": "/images/ross.png",
         "bio": "",
         "comments": [
@@ -12,7 +12,7 @@
         ]
     },
     { 
-        "name": "Kelly",
+        "name": "kelly",
         "image": "/images/kelly.png",
         "bio": "",
         "comments": [
@@ -25,7 +25,7 @@
         
     }, 
     { 
-        "name": "Han",
+        "name": "han",
         "image": "/images/han.png",
         "bio": "",
         "comments": [
@@ -37,7 +37,7 @@
         ]
     },
     { 
-        "name": "Gina",
+        "name": "gina",
         "image": "/images/gina.png",
         "bio": "",
         "comments": [
@@ -49,7 +49,7 @@
         ]
     },
     { 
-        "name": "Ming",
+        "name": "ming",
         "image": "/images/ming.png",
         "bio": "",
         "comments": [
@@ -61,7 +61,7 @@
         ]
     },
     { 
-        "name": "Jack",
+        "name": "jack",
         "image": "/images/jack.png",
         "bio": "",
         "comments": [
@@ -73,7 +73,7 @@
         ]
     },
     { 
-        "name": "Rohan",
+        "name": "rohan",
         "image": "/images/rohan.png",
         "bio": "",
         "comments": [
@@ -85,7 +85,7 @@
         ]
     },
     { 
-        "name": "Oliver",
+        "name": "oliver",
         "image": "/images/oliver.png",
         "bio": "",
         "comments": [
@@ -97,7 +97,7 @@
         ]
     },
     { 
-        "name": "Annie",
+        "name": "annie",
         "image": "/images/annie.png",
         "bio": "",
         "comments": [
