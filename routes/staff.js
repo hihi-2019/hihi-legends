@@ -34,7 +34,6 @@ router.post('/:name', (req, res) => {
         commenter: req.body.commenter,
         comment: req.body.comment,
         date: today
-       
     }
     const staffInfo = staffData.staff.find(function(element) {
         return element.name == name

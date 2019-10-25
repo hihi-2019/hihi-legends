@@ -28,15 +28,11 @@ router.post('/:name', (req, res) => {
     var mm = String(today.getMonth() + 1).padStart(2, '0')
     var yyyy = today.getFullYear()
     today = dd + '/' + mm + '/' + yyyy
-    // let dayofMonth = day.getDate()
-    // let month = day.getMonth()
-    // let year = day.getFullYear()
     
     const newCommentData = {
         commenter: req.body.commenter,
         comment: req.body.comment,
         date: today
-    
     }
     const studentInfo = studentData.students.find(function(element) {
         return element.name == name
