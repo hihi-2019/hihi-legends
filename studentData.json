@@ -4,7 +4,25 @@
       "name": "Alice",
       "image": "/images/alice.png",
       "bio": "",
-      "comments": []
+      "comments": [
+        {
+          "commenter": "Charlie",
+          "comment": "You're a legend m8",
+          "date": "25/10/2019"
+        },
+        {
+          "commenter": "Charlie",
+          "comment": "You're a legend m8",
+          "date": "25/10/2019"
+        },
+        {
+          "commenter": "Charlie",
+          "comment": "You're a legend m8",
+          "date": "25/10/2019"
+        }
+      ],
+      "groupType": "Student",
+      "_locals": {}
     },
     {
       "name": "joseph",
@@ -148,7 +166,9 @@
       "name": "edgars",
       "image": "/images/edgars.png",
       "bio": "",
-      "comments": []
+      "comments": [],
+      "groupType": "Students",
+      "_locals": {}
     }
   ]
 }

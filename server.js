@@ -20,7 +20,7 @@ server.use('/staff', staff)
 
 
 server.get('/', (req, res) => {
-    res.send('<h1>homepage</h1>')
+    res.send(home)
   })
 
 server.get('/students', (req, res) => {
