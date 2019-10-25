@@ -6,22 +6,33 @@
       "bio": "",
       "comments": [
         {
-          "commenter": "",
-          "comment": "",
-          "date": ""
+          "commenter": "Bas",
+          "comment": "You are ok",
+          "date": "2019-10-25T00:58:53.989Z"
         },
         {
-          "commenter": "Alice",
-          "comment": "Really good writing",
-          "date": "2019-10-25T00:45:03.527Z"
+          "commenter": "Bas",
+          "comment": "You are ok",
+          "date": "2019-10-25T01:00:35.493Z"
         },
         {
-          "commenter": "Alice",
+          "commenter": "Bas",
+          "comment": "You are ok",
+          "date": "2019-10-25T01:00:36.807Z"
+        },
+        {
+          "commenter": "Cass",
           "comment": "Really good writing",
-          "date": "2019-10-25T00:45:23.523Z"
+          "date": "2019-10-25T01:01:15.706Z"
+        },
+        {
+          "commenter": "Cass",
+          "comment": "Really good writing",
+          "date": "2019-10-25T01:01:54.669Z"
         }
       ],
-      "_locals": {}
+      "_locals": {},
+      "groupType": "staff"
     },
     {
       "name": "kelly",
