@@ -1,6 +1,7 @@
 const express = require('express')
 const router = express.Router()
 const staffData = require('../staffData.json')
+const fs = require('fs')
 
 
 router.get('/', (req, res) => {    
@@ -24,10 +25,6 @@ router.get('/:name', (req, res) => {
 
 
 
-
-
-
-
 router.post('/:name', (req, res) => {
     const {name} = req.params
     const newCommentData = {
@@ -42,7 +39,7 @@ router.post('/:name', (req, res) => {
 
     fs.writeFileSync('staffData.json', edited_staffData);
     
-    res.redirect('/staff/' + name)
+    res.send('<h1>test</h1>')
 
 })
 

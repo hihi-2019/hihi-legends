@@ -1,113 +1,113 @@
-{ "staff": [
+{
+  "staff": [
     {
-        "name": "ross",
-        "image": "/images/ross.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+      "name": "ross",
+      "image": "/images/ross.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "kelly",
-        "image": "/images/kelly.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
-        
-    }, 
-    { 
-        "name": "han",
-        "image": "/images/han.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "kelly",
+      "image": "/images/kelly.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "gina",
-        "image": "/images/gina.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "han",
+      "image": "/images/han.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "ming",
-        "image": "/images/ming.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "gina",
+      "image": "/images/gina.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "jack",
-        "image": "/images/jack.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "ming",
+      "image": "/images/ming.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "rohan",
-        "image": "/images/rohan.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "jack",
+      "image": "/images/jack.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "oliver",
-        "image": "/images/oliver.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "rohan",
+      "image": "/images/rohan.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "annie",
-        "image": "/images/annie.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
-    }
-    
-]
-  }
+    {
+      "name": "oliver",
+      "image": "/images/oliver.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "annie",
+      "image": "/images/annie.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
+    },
+    {}
+  ]
+}

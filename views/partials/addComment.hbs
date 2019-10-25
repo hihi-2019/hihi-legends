@@ -1,15 +1,15 @@
 <div class="container">
-
-<form class="form newComment" action=("/"+{{groupType}}+"/"+{{name}}) method="post">
+<h1>Add a nice comment about {{name}}</h1>
+<form class="form newComment" action='/students/charlie' method="post">
   
-  <label for="name" class="form-item">
+  <label for="commenter" class="form-item">
     Your Name:
-    <input type="text" name="name" value="">
+    <input type="text" name="commenter" value="">
   </label>
   
-  <label for="breed" class="form-item">
+  <label for="comment" class="form-item">
     Comment:
-    <input type="text" name="breed" value="">
+    <input type="text" name="comment" value="">
   </label>
   
   <input type="submit" name="" value="Submit">

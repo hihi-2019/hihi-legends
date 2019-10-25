@@ -8,13 +8,11 @@ router.get('/', (req, res) => {
     const studentsInfo = {
         groupType: Object.keys(studentData),
         arrayOfGroup: studentData.students
-    }                                     //JSON data taken from studentData.json, contains all student info
+        }                                     
     res.render('index', studentsInfo) 
-    //render the studentProfiles hbs content, and fill in the template with data from students
 })
 
 router.get('/:name', (req, res) => {
-   
     const {name} = req.params
     const studentInfo = studentData.students.find(function(element) {
             return element.name == name
@@ -28,14 +26,19 @@ router.post('/:name', (req, res) => {
         commenter: req.body.commenter,
         comment: req.body.comment,
         date: req.body.date
+       
     }
+    const studentInfo = studentData.students.find(function(element) {
+        return element.name == name
+    })  
     
-    studentData.students.push(newCommentData)
+    studentInfo.comments.push(newCommentData)
+    console.log(studentInfo)
 
     let edited_studentData = JSON.stringify(studentData,null,2);
     fs.writeFileSync('studentData.json', edited_studentData);
     
-    res.redirect('/student/' + name)
+    res.redirect('/students/'+name)
 
 })
 

@@ -1,183 +1,183 @@
-{ "students": [
+{
+  "students": [
     {
-        "name": "Alice",
-        "image": "/images/alice.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+      "name": "Alice",
+      "image": "/images/alice.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Joseph",
-        "image": "/images/joseph.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
-    }, 
-    { 
-        "name": "Bas",
-        "image": "/images/bas.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "joseph",
+      "image": "/images/joseph.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Charlie",
-        "image": "/images/charlie.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "bas",
+      "image": "/images/bas.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Cherise",
-        "image": "/images/cherise.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "charlie",
+      "image": "/images/charlie.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "Bas",
+          "comment": "You are ok"
+        }
+      ]
     },
-    { 
-        "name": "Vere",
-        "image": "/images/vere.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "cherise",
+      "image": "/images/cherise.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Sophie",
-        "image": "/images/sophie.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "vere",
+      "image": "/images/vere.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Richard",
-        "image": "/images/richard.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "sophie",
+      "image": "/images/sophie.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Cass",
-        "image": "/images/cass.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "richard",
+      "image": "/images/richard.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Fraser",
-        "image": "/images/fraser.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "cass",
+      "image": "/images/cass.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Freya",
-        "image": "/images/freya.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "fraser",
+      "image": "/images/fraser.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Caitlin",
-        "image": "/images/caitlin.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "freya",
+      "image": "/images/freya.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Ethan",
-        "image": "/images/ethan.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "caitlin",
+      "image": "/images/caitlin.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Tosca",
-        "image": "/images/tosca.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "ethan",
+      "image": "/images/ethan.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     },
-    { 
-        "name": "Robert",
-        "image": "/images/robert.png",
-        "bio": "",
-        "comments": [
-            {
-                "commenter": "",
-                "comment": "",
-                "date": ""
-            }
-        ]
+    {
+      "name": "tosca",
+      "image": "/images/tosca.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "name": "robert",
+      "image": "/images/robert.png",
+      "bio": "",
+      "comments": [
+        {
+          "commenter": "",
+          "comment": "",
+          "date": ""
+        }
+      ]
     }
-]
-  }
+  ]
+}
