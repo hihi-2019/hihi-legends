@@ -23,10 +23,19 @@ router.get('/:name', (req, res) => {
 
 router.post('/:name', (req, res) => {
     const {name} = req.params
+    let today = new Date ()
+    var dd = String(today.getDate()).padStart(2, '0')
+    var mm = String(today.getMonth() + 1).padStart(2, '0')
+    var yyyy = today.getFullYear()
+    today = dd + '/' + mm + '/' + yyyy
+    // let dayofMonth = day.getDate()
+    // let month = day.getMonth()
+    // let year = day.getFullYear()
+    
     const newCommentData = {
         commenter: req.body.commenter,
         comment: req.body.comment,
-        date: new Date ()
+        date: today
     
     }
     const studentInfo = studentData.students.find(function(element) {

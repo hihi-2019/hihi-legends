@@ -4,32 +4,70 @@
       "name": "Alice",
       "image": "/images/alice.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "joseph",
       "image": "/images/joseph.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "bas",
       "image": "/images/bas.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "charlie",
       "image": "/images/charlie.png",
       "bio": "",
       "comments": [
-        
+        {
+          "commenter": "sdfsd",
+          "comment": "sdfsd",
+          "date": 25
+        },
+        {
+          "commenter": "sdfsd",
+          "comment": "sdfsd",
+          "date": 34
+        },
+        {
+          "commenter": "sdfsd",
+          "comment": "sdfsdds",
+          "date": 34
+        },
+        {
+          "commenter": "sdfsd",
+          "comment": "sdfsdds",
+          "date": 34
+        },
+        {
+          "commenter": "fdgdf",
+          "comment": "dfgdfgf",
+          "date": 34
+        },
+        {
+          "commenter": "sdf",
+          "comment": "sdfds",
+          "date": "25/9"
+        },
+        {
+          "commenter": "asda",
+          "comment": "asdsad",
+          "date": "25/9/2019"
+        },
+        {
+          "commenter": "asdas",
+          "comment": "asdas",
+          "date": "25/91/2019"
+        },
+        {
+          "commenter": "fgsf",
+          "comment": "sfgfs",
+          "date": "25/10/2019"
+        }
       ],
       "groupType": "Student",
       "_locals": {}
@@ -38,104 +76,79 @@
       "name": "cherise",
       "image": "/images/cherise.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "vere",
       "image": "/images/vere.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "sophie",
       "image": "/images/sophie.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "richard",
       "image": "/images/richard.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "cass",
       "image": "/images/cass.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "fraser",
       "image": "/images/fraser.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "freya",
       "image": "/images/freya.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "caitlin",
       "image": "/images/caitlin.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "ethan",
       "image": "/images/ethan.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "tosca",
       "image": "/images/tosca.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "robert",
       "image": "/images/robert.png",
       "bio": "",
-      "comments": [
-      ]
+      "comments": []
     },
     {
       "name": "nisida",
       "image": "/images/nisida.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     },
     {
       "name": "edgars",
       "image": "/images/edgars.png",
       "bio": "",
-      "comments": [
-
-      ]
+      "comments": []
     }
   ]
 }
