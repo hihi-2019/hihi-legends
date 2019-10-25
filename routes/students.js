@@ -22,10 +22,11 @@ router.get('/:name', (req, res) => {
 
 router.post('/:name', (req, res) => {
     const {name} = req.params
+    
     const newCommentData = {
         commenter: req.body.commenter,
         comment: req.body.comment,
-        date: req.body.date
+        date: new Date ()
        
     }
     const studentInfo = studentData.students.find(function(element) {
@@ -33,7 +34,7 @@ router.post('/:name', (req, res) => {
     })  
     
     studentInfo.comments.push(newCommentData)
-    console.log(studentInfo)
+    
 
     let edited_studentData = JSON.stringify(studentData,null,2);
     fs.writeFileSync('studentData.json', edited_studentData);
