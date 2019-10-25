@@ -9,8 +9,19 @@
           "commenter": "",
           "comment": "",
           "date": ""
+        },
+        {
+          "commenter": "Alice",
+          "comment": "Really good writing",
+          "date": "2019-10-25T00:45:03.527Z"
+        },
+        {
+          "commenter": "Alice",
+          "comment": "Really good writing",
+          "date": "2019-10-25T00:45:23.523Z"
         }
-      ]
+      ],
+      "_locals": {}
     },
     {
       "name": "kelly",
