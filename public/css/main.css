@@ -118,3 +118,14 @@ body
     justify-content: center;
     margin:100px 0;
 }
+
+.columns-flex-wrap
+{
+    flex-wrap:wrap !important;
+}
+
+.column-flex-width
+{
+    width:25%;
+    flex-basis:auto;
+}

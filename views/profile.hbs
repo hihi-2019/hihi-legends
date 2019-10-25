@@ -1,4 +1,4 @@
-<div class="container"> 
+{{!-- <div class="container"> 
 
 <p>{{name}}</p>
 <p>{{bio}}</p>
@@ -12,8 +12,84 @@
 </div>
 {{/each}}
 
-</div>
+</div> --}}
 
+{{>nav}}
+
+        <div class="columns is-centered is-gapless">
+            <div class="column is-one-quarter less-dark-bg">
+                <div class="profile-padding-hack">
+                    <h3 class="title has-text-white is-size-3 has-text-centered">
+                        {{name}}
+                    </h3>
+                    <p class="has-text-white has-text-centered">I like turtles!</p>
+                    <hr class="smoll-divider centered-hr">
+                    <figure class="image">
+                        <img src='{{image}}'>
+                    </figure>
+                    <br>
+                    <a href="/">
+                        <div class="has-text-centered">
+                            <button class="button is-black is-inverted is-outlined">
+                                <span>Give a shoutout!</span>
+                            </button>
+                        </div>
+                    </a>    
+                </div>
+            </div>
+            <div class="column is-three-quarters">
+                <div class="profile-padding-hack">
+                    <h3 class="title has-text-white is-size-3">
+                        Recent shout-outs
+                    </h3>
+
+                    <div class="tile is-ancestor">
+                            {{!-- <div class="tile is-horizontal">
+                              <div class="tile is-parent is-2">
+                                <div class="tile is-child">
+                                        <figure class="image">
+                                                <img src='public/images/bas.png'>
+                                            </figure>
+                                </div>
+                              </div> --}}
+                              <div class="tile is-parent is-10 paper-background">
+                                <div class="tile is-child">
+                                    {{#each comments}}
+                                    <div class="columns">
+                                        <div class="column vertical-center-text">
+                                                <p class="has-text-black">{{comment}}</p>
+                                                <br>
+                                                <p class="has-text-black">{{commenter}}</p>
+                                                <br>
+                                                <p class="has-text-black">{{date}}</p>  
+                                        </div>
+                                    </div>    
+                                    {{/each}}                          
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                    <!-- <div class="columns is-gapless">
+                        <div class="column is-one-quarter">
+                            <div class="profile-padding-hack test-bg">
+                                    <figure class="image">
+                                        <img src='public/images/bas.png'>
+                                    </figure>
+                            </div>
+                        </div>
+                        <div class="column is-three-quarters">
+                            <div class="profile-padding-hack test-bg">
+                                <div class="comment-paper">
+                                    <p>Test</p>
+                                    <p>Date</p>
+                                </div>
+                            </div>
+                         </div>
+                     </div> -->
+                     
 {{>addComment}}
 
+{{>footer}}
 
+        </div>

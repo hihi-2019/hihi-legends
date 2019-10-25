@@ -1,10 +1,38 @@
-<div class="container">
-<h1>Profiles of Hihi 2019 {{groupType}}</h1>
-{{#each arrayOfGroup}}
-<div>
-<h3> {{name}} </h3>
-<a href="{{../groupType}}/{{name}}"><img src="{{image}}" alt="{{name}}"> </a> 
-</div>
-{{/each}}
+{{>nav}}
 
-</div>
+<section class="section has-text-white less-dark-bg">
+    <div class="container">
+        <h1 class="title has-text-white is-size-1">
+            {{groupType}}
+        </h1>
+        <hr class="smoll-divider">
+        <p class="has-text-white">
+                Damn, what a good looking cohort 😏
+        </p>
+    </div> 
+</section>
+
+
+<section class="section has-text-white">
+    <div class="columns columns-flex-wrap">
+        {{#each arrayOfGroup}}
+        <div class="column column-flex-width">
+            <a href="{{../groupType}}/{{name}}">
+                <img src="{{image}}" alt="{{name}}">
+            </a>
+        </div>
+        {{/each}}
+    </div>
+    <div class="container has-text-centered">
+        <a href="/">
+            <button class="button is-black is-inverted is-outlined ">
+                <span>Go back home!</span>
+                <span class="icon is-small">
+                    <i class="fas fa-arrow-right"></i>
+                </span>
+            </button>
+        </a>
+    </div>
+</section>
+
+{{>footer}}
