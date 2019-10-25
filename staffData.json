@@ -5,130 +5,57 @@
       "image": "/images/ross.png",
       "bio": "",
       "comments": [
-        {
-          "commenter": "Bas",
-          "comment": "You are ok",
-          "date": "2019-10-25T00:58:53.989Z"
-        },
-        {
-          "commenter": "Bas",
-          "comment": "You are ok",
-          "date": "2019-10-25T01:00:35.493Z"
-        },
-        {
-          "commenter": "Bas",
-          "comment": "You are ok",
-          "date": "2019-10-25T01:00:36.807Z"
-        },
-        {
-          "commenter": "Cass",
-          "comment": "Really good writing",
-          "date": "2019-10-25T01:01:15.706Z"
-        },
-        {
-          "commenter": "Cass",
-          "comment": "Really good writing",
-          "date": "2019-10-25T01:01:54.669Z"
-        }
       ],
-      "_locals": {},
-      "groupType": "staff"
+      "groupType": "Staff",
+      "_locals": {}
     },
     {
       "name": "kelly",
       "image": "/images/kelly.png",
       "bio": "",
-      "comments": [
-        {
-          "commenter": "",
-          "comment": "",
-          "date": ""
-        }
-      ]
+      "comments": []
     },
     {
       "name": "han",
       "image": "/images/han.png",
       "bio": "",
-      "comments": [
-        {
-          "commenter": "",
-          "comment": "",
-          "date": ""
-        }
-      ]
+      "comments": []
     },
     {
       "name": "gina",
       "image": "/images/gina.png",
       "bio": "",
-      "comments": [
-        {
-          "commenter": "",
-          "comment": "",
-          "date": ""
-        }
-      ]
+      "comments": []
     },
     {
       "name": "ming",
       "image": "/images/ming.png",
       "bio": "",
-      "comments": [
-        {
-          "commenter": "",
-          "comment": "",
-          "date": ""
-        }
-      ]
+      "comments": []
     },
     {
       "name": "jack",
       "image": "/images/jack.png",
       "bio": "",
-      "comments": [
-        {
-          "commenter": "",
-          "comment": "",
-          "date": ""
-        }
-      ]
+      "comments": []
     },
     {
       "name": "rohan",
       "image": "/images/rohan.png",
       "bio": "",
-      "comments": [
-        {
-          "commenter": "",
-          "comment": "",
-          "date": ""
-        }
-      ]
+      "comments": []
     },
     {
       "name": "oliver",
       "image": "/images/oliver.png",
       "bio": "",
-      "comments": [
-        {
-          "commenter": "",
-          "comment": "",
-          "date": ""
-        }
-      ]
+      "comments": []
     },
     {
       "name": "annie",
       "image": "/images/annie.png",
       "bio": "",
-      "comments": [
-        {
-          "commenter": "",
-          "comment": "",
-          "date": ""
-        }
-      ]
+      "comments": []
     },
     {}
   ]
