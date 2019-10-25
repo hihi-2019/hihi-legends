@@ -1,0 +1,120 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    background-color:#001241;
+    /* color:white !important; */
+}
+
+
+
+.dark-container
+{
+    background-color: #1d3f945e;
+}
+
+.less-dark-bg
+{
+    background-color:#111654;    
+}
+
+.white-overwrite
+{
+    color:white!important;
+}
+
+.dark-nav
+{
+    background-color:#001042;
+}
+
+.smoll-divider
+{
+    width:128px;
+    height:4px;
+    color:white;
+}
+
+.smoller-divider
+{
+    width:64px;
+    height:4px;
+    color:white;
+}
+
+.lp-image-container
+{
+    position:relative;
+}
+
+.lp-image-button
+{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.smoll-section-padding
+{
+    padding: 0.5rem 1rem;
+}
+
+.dark-footer
+{
+    background-color:#001241;
+}
+
+.profile-photo
+{
+    margin:20px;
+}
+
+.centered-hr
+{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.profile-padding-hack
+{
+    padding:48px 28px ;
+    position: relative;
+}
+
+.navbar-brand > .navbar-item
+{
+    font-family: 'Staatliches', cursive;
+}
+
+.strikethrough-text
+{
+    text-decoration: line-through;
+}
+
+.has-text-lightest
+{
+    color: #dadada;
+}
+
+.note-font
+{
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.test-bg
+{
+    background-color: black;
+}
+
+.paper-background
+{
+    background-image: url("paper-bg.png");
+}
+
+.vertical-center-text
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:100px 0;
+}
