@@ -50,8 +50,15 @@
           "commenter": "Alice",
           "comment": "Interesting story",
           "date": "2019-10-25T00:43:23.552Z"
+        },
+        {
+          "commenter": "test commenter",
+          "comment": "You are ok",
+          "date": "2019-10-25T01:07:12.895Z"
         }
-      ]
+      ],
+      "groupType": "Student",
+      "_locals": {}
     },
     {
       "name": "cherise",
